@@ -1,6 +1,6 @@
 # AppCleaner Mac Download - Complete Application Uninstaller  
 
-![AppCleaner Screenshot](https://freemacsoft.net/images/appcleaner_window.png)  
+![AppCleaner Screenshot](https://app-cleaner.com/wp-content/uploads/2024/07/app-cleaner-window.png)  
 
 ---  
 
@@ -23,7 +23,7 @@ Advanced users will appreciate the Smart Delete feature that allows selective re
 
 The application runs natively on both Intel and Apple Silicon Macs, supports dark mode, and integrates seamlessly with macOS. Regular updates ensure compatibility with the latest versions of MacOS, making AppCleaner a reliable long-term solution for application management.  
 
-![AppCleaner Interface](https://freemacsoft.net/images/appcleaner_smartdelete.png)  
+![AppCleaner Interface](https://imag.malavida.com/mvimgbig/download-fs/app-cleaner-16599-3.jpg)  
 
 ---  
 
